@@ -49,7 +49,7 @@ GitH
 
 The project follows the Medallion Architecture using Azure + Snowflake + dbt Core:
 
-![](https://github.com/macmichael-analytics/AIRBNB-SNOWFLAKE/blob/main/pictures/design dbt.png).
+![]((https://github.com/macmichael-analytics/End-to-End-Airbnb-Data-Engineering-Cloud-Analytics-with-Snowflake/blob/main/pictures/design%20dbt.png)).
 
 ### Azure
 - Used as the cloud platform for data storage and orchestration
@@ -124,12 +124,12 @@ Why this matters:
 
 ### Data Modelling:
 
-![](https://github.com/macmichael-analytics/AIRBNB-SNOWFLAKE/blob/main/pictures/Airbnb%20model.png)
+![](https://github.com/macmichael-analytics/End-to-End-Airbnb-Data-Engineering-Cloud-Analytics-with-Snowflake/blob/main/pictures/Airbnb%20model.png)
 
 The final Gold models were connected to Power BI to create interactive dashboards showing:
 
 
-![](https://github.com/macmichael-analytics/AIRBNB-SNOWFLAKE/blob/main/pictures/Airbnb%20power%20bi.png)
+![](https://github.com/macmichael-analytics/End-to-End-Airbnb-Data-Engineering-Cloud-Analytics-with-Snowflake/blob/main/pictures/Airbnb%20power%20bi.png)
 
 - Pricing trends by month
 - Listing distribution by property type
